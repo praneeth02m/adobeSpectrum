@@ -1,0 +1,16 @@
+.nav-icon {
+  margin-right: 5px;
+  width: 21px;
+}
+.heading-style {
+  font-weight: bold;
+  color: #000000;
+}
+
+.home {
+  margin: 50px;
+}
+.heading-style::part(heading) {
+  font-weight: bold;
+  color: black;
+}

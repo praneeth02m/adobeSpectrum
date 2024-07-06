@@ -3,11 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@adobe/react-spectrum": "^3.35.1",
+    "@emotion/react": "^11.11.4",
+    "@spectrum-css/spectrum-css": "^3.0.0-alpha.0",
+    "@spectrum-css/vars": "^9.0.8",
+    "@spectrum-web-components/action-bar": "^0.43.0",
+    "@spectrum-web-components/button": "^0.43.0",
+    "@spectrum-web-components/card": "^0.43.0",
+    "@spectrum-web-components/sidenav": "^0.43.0",
+    "@spectrum-web-components/styles": "^0.43.0",
+    "@spectrum-web-components/tabs": "^0.43.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "react-router-dom": "^6.24.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -34,5 +47,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.3"
   }
 }

@@ -1,0 +1,37 @@
+.side-navigation {
+  padding: 20px 16px;
+  width: 272px;
+  box-shadow: 5px 15px 10px #f3eeee;
+}
+
+.root {
+  width: 400px;
+}
+
+.in-content {
+  width: 100%;
+  padding: 30px;
+}
+.terminal-design {
+  width: 104px;
+  height: 104px;
+}
+.tab-style {
+  width: 100%;
+}
+.card-style {
+  padding: 20px;
+  margin-right: 20px;
+}
+.card-box {
+  box-shadow: 0px 0px 10px 10px #bfbfbf;
+}
+.total-con {
+  min-height: 100vh;
+}
+.content-container {
+  min-height: 100vh;
+}
+.options-style {
+  font-size: 20px;
+}
